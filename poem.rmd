@@ -18,6 +18,13 @@ you, if you change any of this the git program will notice it and compromise you
 
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
+He halted in the wind, and — what was that    
+Far in the maples, pale, but not a ghost?    
+He stood there bringing March against his thought,    
+And yet too ready to believe the most.    
+
+"Oh, that's the Paradise-in-bloom," I said;    
+
 
 ## Third Verse
 <!--Put the first two verses of The Walrus and the Carpenter here!-->
