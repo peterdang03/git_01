@@ -23,9 +23,30 @@ Eager eye and willing ear,
 
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
+He halted in the wind, and — what was that    
+Far in the maples, pale, but not a ghost?    
+He stood there bringing March against his thought,    
+And yet too ready to believe the most.    
+
+"Oh, that's the Paradise-in-bloom," I said;    
+
 
 ## Third Verse
 <!--Put the first two verses of The Walrus and the Carpenter here!-->
+"The sun was shining on the sea,    
+      Shining with all his might:    
+He did his very best to make    
+      The billows smooth and bright —    
+And this was odd, because it was    
+      The middle of the night.    
+
+The moon was shining sulkily,    
+      Because she thought the sun    
+Had got no business to be there    
+      After the day was done —    
+"It's very rude of him," she said,    
+      "To come and spoil the fun."    
+
 
 ## Last Verse
 <!--Put a short poem you created using chatGPT of 20 to 30 lines,here!-->
